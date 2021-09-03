@@ -19,6 +19,9 @@ bin-debug/
 # VS2017 .vs directory
 src/.vs/
 
+# VS2019 .vs directory
+.vs/
+
 
 # Remove generated docs
 
